@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/bigger-is-greater/problem
 t = int(input())
 for _ in range(t):
     word = list(input().strip())
